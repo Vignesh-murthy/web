@@ -1,0 +1,73 @@
+h1{
+  font-size: 90px;
+  font-family: 'Poppins', sans-serif;
+  margin: 50px 50px 0px 50px;
+}
+#creative{
+  color: blue;
+}
+#logo{
+  position: relative;
+  left: 30px;
+  top: 20px;
+}
+p{
+  font-size: 30px;
+}
+#left{
+ display: inline-block; 
+  width: 300px;
+  background-color:#FFFEC4
+ 
+ }
+#beauty{
+  float: left;
+  height: 200px;
+  width: 300px;
+}
+#cons{
+  float: right;
+   height: 200px;
+   width: 300px;
+}
+#second{
+  flex: 1;
+  text-align: center;
+}
+#right{
+ display: inline-block;
+ width: 300px;
+ position: relative;
+ left: 400px;
+ background-color: #CBFFA9;
+}
+.para{
+  position: relative;
+  left: 0px;
+  top: -2px;
+}
+#main{
+  background-color: 
+  #F8E8EE;
+}
+footer{
+  color: black;
+}
+@media (max-width:600px){
+  #logo{
+    width: 100px;
+  }
+  h1{
+    font-size: 20px;
+  }
+  #left{
+    width: 100px;
+  }
+ 
+}
+
+
+
+
+
+
